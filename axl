@@ -1,3 +1,4 @@
 #!/usr/bin/envi piython3
 print('hello world')
 print("i'm ok!!")
+print('你咥了么？')
