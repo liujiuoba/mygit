@@ -1,0 +1,2 @@
+#!/usr/bin/envi piython3
+print('hello world')
